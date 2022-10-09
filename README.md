@@ -25,6 +25,8 @@
  * [3.2 - Datetimes](http://)
  * [3.2L - Active Users Lab](http://)
  * [3.3 - Complex Types](http://)
+ * 
+ * Optional
  * [3.3L - Users](http://)
  * [3.4 - Additional Functions](http://)
  * [3.4L - Abandoned Carts Lab](http://)
