@@ -16,9 +16,12 @@
  * [2.2L - Ingesting Data Lab](http://)
  * [2.3 - DataFrame & Column](http://)
  * [2.3L - Purchase Revenues Lab](http://)
- * [Capstone - Spark SQL - Airlines Analytics](http://)
+
 
  # Day 2
+  ## Spark SQL
+  * [Capstone - Spark SQL - Airlines Analytics](http://)
+  
  ## Functions
  * [3.1 - Aggregation](http://)
  * [3.1L - Revenue by Traffic Lab](http://)
