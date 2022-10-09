@@ -1,7 +1,7 @@
 
  
  # Apache Spark Programming with Databricks
- ## Course Agenda
+ ##  Direct Links to Solution Notebooks
 
 
  # Day 1
