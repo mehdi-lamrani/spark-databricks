@@ -16,6 +16,7 @@
  * [2.2L - Ingesting Data Lab](http://)
  * [2.3 - DataFrame & Column](http://)
  * [2.3L - Purchase Revenues Lab](http://)
+ * [Capstone - Spark SQL - Airlines Analytics](http://)
 
  # Day 2
  ## Functions
@@ -33,10 +34,12 @@
 
  # Day 3
  ## Streaming
+
  * [4.1 - Streaming Query](http://)
  * [4.1aL - Coupon Sales Lab](http://)
  * [4.1bL - Hourly Activity by Traffic Lab](http://)
  * [4.1cL - Activity by Traffic Lab](http://)
+ * [Capstone - Spark Streaming - Financial Alpha Stream](http://)
 
 
  ## Delta Lake
