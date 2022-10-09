@@ -44,6 +44,7 @@
  * [Capstone - Spark Streaming - Financial Alpha Stream](http://)
 
 
+ # Optional
  ## Delta Lake
  * [5.1 - Delta Lake](http://)
  * [5.1L - Delta Lake Lab](http://)
